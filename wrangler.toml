@@ -9,7 +9,7 @@ pages_build_output_dir = "./public"
 # 아래 id는 KV namespace 생성 후 실제 값으로 교체해야 합니다
 [[kv_namespaces]]
 binding = "SUBSCRIPTIONS"
-id = "YOUR_KV_NAMESPACE_ID"
+id = "992361994b4b48b0bbfb00e16aecdce2"
 
 # 프리뷰 환경용 (wrangler pages dev 시 사용)
 # preview_id = "YOUR_PREVIEW_KV_NAMESPACE_ID"
